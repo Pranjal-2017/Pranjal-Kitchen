@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image: url(https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/plant-based-food-mc-220323-02-273c7b.jpg);
+  background-repeat: no-repeat;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.display-1{
+  font-size: 450%;
+}
+
+.bg{
+  background-image: url(./food\ photo.jpeg);
+}
+
+.brand-icon {
+    font-size: 100px;
+}
